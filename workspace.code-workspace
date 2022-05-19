@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap_source",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "..\\resweb_10_source\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap_source"
+	}
+}

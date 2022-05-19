@@ -1,0 +1,22 @@
+@charset 'utf-8';
+
+ table, th, td{
+    text-align: center;
+}
+
+th{
+    background-color: #ccc;
+    border: 2px solid #0000ff !important;
+}
+
+tr, td{
+    vertical-align: middle !important;
+}
+
+ul{
+    list-style: none;
+}
+
+/* div{ */
+    /* text-align: center; */
+/* } */
